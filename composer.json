@@ -1,5 +1,5 @@
 {
-    "name": "napp/xray-laravel",
+    "name": "jamosaur/xray-laravel",
     "description": "AWS X-Ray for Laravel applications.",
     "keywords": ["xray", "php", "tracing", "laravel"],
     "license": "MIT",
